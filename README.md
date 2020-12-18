@@ -7,7 +7,7 @@
 [2020_코드스쿼드 코코아_FRONTEND](https://codesquad.kr/)<br>
 [2020_오픈소스컨트리뷰톤_BACKEND.AI](https://www.oss.kr/contributhon)<br>
 [2020_우아한테크_REACT&TYPESCRIPT](https://www.facebook.com/woowahanTech/posts/2659974057576516/)<br>
-[2020_부스트캠프_챌린지](https://boostcamp.connect.or.kr/)<br>
+[2020_부스트캠프_챌린지프론트엔드](https://boostcamp.connect.or.kr/)<br>
 [2018_케이실드주니어_1기](http://www.kshieldjr.org/)<br>
 [2017_컨트리뷰톤_RING](https://www.oss.kr/contributhon_history?category_item_id=373)<br>
 [2017_한국장학재단_차세대리더육성멘토링](https://portal.kosaf.go.kr/CO/jspAction.do)<br>
@@ -25,5 +25,8 @@
 |2018|2018 HYCONHACK(3위)|(주)하이콘/글로스퍼|
 
 <img src='https://raw.githubusercontent.com/zel0rd/2019_R-D_Challenge_AI_Network_Threat_Detection/master/References/R%26D_challenge.jpg' height="400" width="400" /> <img src='https://github.com/zel0rd/2018_Privacy_Anonymization_Competition/blob/master/References/%EC%8B%9C%EC%83%81%EC%8B%9D1.jpg' height="400" width="400" />
+<img src='https://raw.githubusercontent.com/zel0rd/zel0rd/master/image/hycon.jpg' height="400" width="400" />
+<img src='https://raw.githubusercontent.com/zel0rd/zel0rd/master/image/contribution.jpg' height="400" width="400" />
+<img src='https://raw.githubusercontent.com/zel0rd/zel0rd/master/image/kosaf.jpg' height="400" width="400" />
 
 

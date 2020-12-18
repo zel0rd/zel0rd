@@ -1,6 +1,6 @@
 ## 진행중
 [2020_Google Developers Machine Learning Bootcamp](https://events.withgoogle.com/google-developers-mlb-kr/)<br>
-[2020_Kaggle_Korea_Suwon_Study](https://www.notion.so/quakka/aa31adc4192340c397f23a3e61808ef1)
+[2019_Kaggle_Korea_Suwon_Study](https://www.notion.so/quakka/aa31adc4192340c397f23a3e61808ef1)
 
 
 ## 종료

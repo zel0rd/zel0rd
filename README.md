@@ -1,4 +1,6 @@
 ## 진행중
+[2021_코드스쿼드_마스터즈_프론트엔드](https://codesquad.kr/)<br>
+[2021_삼성청년SW아카데미_SSAFY_5기](https://www.ssafy.com/)<br>
 [2020_Google Developers Machine Learning Bootcamp](https://events.withgoogle.com/google-developers-mlb-kr/)<br>
 [2019_Kaggle_Korea_Suwon_Study](https://www.notion.so/quakka/aa31adc4192340c397f23a3e61808ef1)
 

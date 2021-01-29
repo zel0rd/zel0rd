@@ -26,10 +26,13 @@
 |2018|2018 개인정보 비식별 경진대회(최우수)|한국인터넷진흥원|
 |2018|2018 HYCONHACK(3위)|(주)하이콘/글로스퍼|
 
-<img src='https://raw.githubusercontent.com/zel0rd/2019_R-D_Challenge_AI_Network_Threat_Detection/master/References/R%26D_challenge.jpg' height="400" width="400" /> <img src='https://github.com/zel0rd/2018_Privacy_Anonymization_Competition/blob/master/References/%EC%8B%9C%EC%83%81%EC%8B%9D1.jpg' height="400" width="400" />
+<img src='https://raw.githubusercontent.com/zel0rd/2019_R-D_Challenge_AI_Network_Threat_Detection/master/References/R%26D_challenge.jpg' height="400" width="400" /> 
+<img src='https://github.com/zel0rd/2018_Privacy_Anonymization_Competition/blob/master/References/%EC%8B%9C%EC%83%81%EC%8B%9D1.jpg' height="400" width="400" />
 <img src='https://raw.githubusercontent.com/zel0rd/zel0rd/master/image/hycon.jpg' height="400" width="400" />
 <img src='https://raw.githubusercontent.com/zel0rd/zel0rd/master/image/hycon2.jpeg' height="400" width="400" />
 <img src='https://raw.githubusercontent.com/zel0rd/zel0rd/master/image/contribution.jpg' height="400" width="400" />
 <img src='https://raw.githubusercontent.com/zel0rd/zel0rd/master/image/kosaf.jpg' height="400" width="400" />
+<img src='https://raw.githubusercontent.com/zel0rd/zel0rd/master/image/%ED%85%90%EC%84%9C%ED%94%8C%EB%A1%9C%EC%9A%B0.png' height="400 width="400 />
+
 
 

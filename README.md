@@ -9,8 +9,8 @@
 [2020_오픈소스컨트리뷰톤_BACKEND.AI](https://www.oss.kr/contributhon)<br>
 [2020_우아한테크_REACT&TYPESCRIPT](https://www.facebook.com/woowahanTech/posts/2659974057576516/)<br>
 [2020_부스트캠프_챌린지프론트엔드](https://boostcamp.connect.or.kr/)<br>
-[2020_Kaggle_Korea_Suwon_Study](https://www.notion.so/quakka/aa31adc4192340c397f23a3e61808ef1)
-[2019_Kaggle_Korea_Suwon_Study](https://www.notion.so/quakka/aa31adc4192340c397f23a3e61808ef1)
+[2020_Kaggle_Korea_Suwon_Study](https://www.notion.so/quakka/aa31adc4192340c397f23a3e61808ef1)<br>
+[2019_Kaggle_Korea_Suwon_Study](https://www.notion.so/quakka/aa31adc4192340c397f23a3e61808ef1)<br>
 [2018_케이실드주니어_1기](http://www.kshieldjr.org/)<br>
 [2017_컨트리뷰톤_RING](https://www.oss.kr/contributhon_history?category_item_id=373)<br>
 [2017_한국장학재단_차세대리더육성멘토링](https://portal.kosaf.go.kr/CO/jspAction.do)<br>

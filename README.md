@@ -1,11 +1,11 @@
 ## 진행중
+[2021_NEXTSTEP_블랙커피스터디_LV3_1기](https://edu.nextstep.camp/s/2PzAo5Pq)<br>
+
+## 종료
 [2021_코드스쿼드_마스터즈_프론트엔드](https://codesquad.kr/)<br>
 [2021_삼성청년SW아카데미_SSAFY_5기](https://www.ssafy.com/)<br>
 [2021_NEXTSTEP_블랙커피스터디_LV1_8기](https://edu.nextstep.camp/s/YdxvfuaX)<br>
 [2021_NEXTSTEP_블랙커피스터디_LV2_3기](https://edu.nextstep.camp/s/ibyvZwZ2)<br>
-
-
-## 종료
 [2020_Google Developers Machine Learning Bootcamp](https://events.withgoogle.com/google-developers-mlb-kr/)<br>
 [2020_코드스쿼드 코코아_FRONTEND](https://codesquad.kr/)<br>
 [2020_오픈소스컨트리뷰톤_BACKEND.AI](https://www.oss.kr/contributhon)<br>

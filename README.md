@@ -39,3 +39,7 @@
 <img src='https://raw.githubusercontent.com/zel0rd/zel0rd/master/image/kosaf.jpg' height="400" width="400" />
 <img src='https://raw.githubusercontent.com/zel0rd/zel0rd/master/image/%ED%85%90%EC%84%9C%ED%94%8C%EB%A1%9C%EC%9A%B0.png' height="400" width="400" />
 </div>
+
+<hr>
+
+![zel0rd's github stats](https://github-readme-stats.vercel.app/api?username=zel0rd&show_icons=true&theme=tokyonight)

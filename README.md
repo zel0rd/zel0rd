@@ -32,6 +32,7 @@
 <div>
 <img src='https://user-images.githubusercontent.com/28799597/140802931-98f121e0-6990-41a0-9bf1-e39e9879ff57.jpeg' height="400" width="400" alt="AI보안 기술개발 전문인력 양성과정 프로젝트 평가위원"/>
 <img src='https://raw.githubusercontent.com/zel0rd/2019_R-D_Challenge_AI_Network_Threat_Detection/master/References/R%26D_challenge.jpg' height="400" width="400" alt="2019 k사이버 시큐리티 챌린지 AI 네트워크 위협탐지부분 1위(한국전력 사장상)" /> 
+<img src='https://user-images.githubusercontent.com/28799597/170706740-3a189002-98a5-42e6-86e4-e0d7c2633790.jpeg' height="400" width="400" alt="2019 k사이버 시큐리티 챌린지 AI 네트워크 위협탐지부분 1위(한국전력 사장상)" /> 
 <img src='https://raw.githubusercontent.com/zel0rd/2018_Privacy_Anonymization_Competition/master/References/%EC%8B%9C%EC%83%81%EC%8B%9D2.jpg' height="400" width="400" alt="2018 개인정보 비식별 경진대회 최우수(한국인터넷진흥원장상)" />
 <img src='https://raw.githubusercontent.com/zel0rd/zel0rd/master/image/hycon.jpg' height="400" width="400" />
 <img src='https://raw.githubusercontent.com/zel0rd/zel0rd/master/image/hycon2.jpeg' height="400" width="400" />
@@ -39,6 +40,7 @@
 <img src='https://raw.githubusercontent.com/zel0rd/zel0rd/master/image/kosaf.jpg' height="400" width="400" />
 <img src='https://raw.githubusercontent.com/zel0rd/zel0rd/master/image/%ED%85%90%EC%84%9C%ED%94%8C%EB%A1%9C%EC%9A%B0.png' height="400" width="400" />
 </div>
+![7445692_8245](https://user-images.githubusercontent.com/28799597/170706740-3a189002-98a5-42e6-86e4-e0d7c2633790.jpeg)
 
 <hr>
 

@@ -39,8 +39,8 @@
 <img src='https://raw.githubusercontent.com/zel0rd/zel0rd/master/image/contribution.jpg' height="400" width="400" />
 <img src='https://raw.githubusercontent.com/zel0rd/zel0rd/master/image/kosaf.jpg' height="400" width="400" />
 <img src='https://raw.githubusercontent.com/zel0rd/zel0rd/master/image/%ED%85%90%EC%84%9C%ED%94%8C%EB%A1%9C%EC%9A%B0.png' height="400" width="400" />
+<img src='https://user-images.githubusercontent.com/28799597/170706740-3a189002-98a5-42e6-86e4-e0d7c2633790.jpeg' height="400" width="400" />
 </div>
-![7445692_8245](https://user-images.githubusercontent.com/28799597/170706740-3a189002-98a5-42e6-86e4-e0d7c2633790.jpeg)
 
 <hr>
 
